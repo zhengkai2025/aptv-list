@@ -1,6 +1,6 @@
 # APTV 订阅示例
 # 你可以在这里放频道源、直播源或自定义规则
-
+CNA: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 https://example.com/live/stream1.m3u8
 https://example.com/live/stream2.m3u8
 https://example.com/live/stream3.m3u8
